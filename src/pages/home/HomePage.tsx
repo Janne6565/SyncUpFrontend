@@ -7,7 +7,7 @@ function HomePage(props: Props) {
 
   return (
     <Home>
-      <h1>SyncUp</h1>
+      <h1>Home</h1>
     </Home>
   );
 }
